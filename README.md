@@ -5,7 +5,7 @@ This is an useful tool for developers and programmers to quickly verify the corr
 
 Features
 - File Input: accepts various file types
-- Bracket Matching - checks for balanched brackets in each line of the input file
+- Bracket Matching: checks for balanched brackets in each line of the input file
 - User friendly: Asks the user for the file path and provides clear output messages indicating whether each expression is balanced or not.
 
 How it works
